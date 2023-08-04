@@ -4,11 +4,13 @@ This is the repository that contains source code for the [DialGen website](https
 
 If you find DialGen useful for your work please cite:
 ```
-@article{lu2023dialgen,
-  author    = {Lu, Bo-Ru and Haduong, Nikita and Lee, Chia-Hsuan and Wu, Zeqiu and Cheng, Hao and Yu, Tao and Smith, Noah A. and Ostendorf, Mari},
-  title     = {Collaborative Human-LM Generated Dialogues for Improved Understanding of Human-human Conversations},
-  journal   = {arXiv preprint arXiv:TBD},
-  year      = {2023},
+@misc{lu2023dialgen,
+      title={DIALGEN: Collaborative Human-LM Generated Dialogues for Improved Understanding of Human-Human Conversations}, 
+      author={Bo-Ru Lu and Nikita Haduong and Chia-Hsuan Lee and Zeqiu Wu and Hao Cheng and Paul Koester and Jean Utke and Tao Yu and Noah A. Smith and Mari Ostendorf},
+      year={2023},
+      eprint={2307.07047},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
